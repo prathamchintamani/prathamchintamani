@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prathamchintamani
 - 👀 I’m interested in AIML
-- 🌱 I’m currently learning pytorch
+- 🌱 I’m currently learning PyTorch
 
 
 <!---
