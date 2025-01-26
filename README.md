@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @prathamchintamani
-- 👀 I’m interested in AIML
-- 🌱 I’m currently learning Reinforcement Learning and Computer Vision
 
 
 <!---
