@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prathamchintamani
+- Hi
 
 
 <!---
