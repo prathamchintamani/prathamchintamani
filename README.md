@@ -6,7 +6,8 @@ Mostly working on:
 
 * Reinforcement Learning
 * Multi-Agent Reinforcement Learning
-* Robust / Risk-Sensitive RL
+* Risk-Sensitive RL
+* Robust RL
 
 Occasionally:
 
